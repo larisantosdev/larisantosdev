@@ -19,6 +19,10 @@
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+
+<img align="center" alt="Lari" height="30" width="40" src="https://github.com/larisantosdev/larisantosdev/blob/main/gif2.gif">
+
+
 ##
 
 <div> 
