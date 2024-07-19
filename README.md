@@ -3,6 +3,7 @@
 ## Sobre mim
 
 - 🌱 Atualmente estudando e me aperfeiçoando em tecnologias front-end;
+- 📘 Fazendo minha graduação em Ciência da Computação pela UFRRJ;
 - 📜 Me aventurando em UX Design, estudando pelo Google;
 - 💻 Tecnologias favoritas: HTML, CSS e Javascript;
 - 📫 Contate-me pelo e-mail: laridsantoslima@gmail.com;
