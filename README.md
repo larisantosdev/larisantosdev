@@ -20,6 +20,10 @@
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=larisantosdev&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF)
+
 ##
 
 
