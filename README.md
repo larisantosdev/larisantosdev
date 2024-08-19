@@ -8,7 +8,7 @@
 - 💻 Tecnologias favoritas: HTML, CSS e Javascript;
 - 📫 Contate-me pelo e-mail: laridsantoslima@gmail.com;
 - 😄 Meus pronomes: ela/dela;
-- ⚡ Fato divertido: _Quase fui biologa!_
+- ⚡ Fato divertido: _Quase fui bióloga!_
 
 ## Minhas Skills👩🏻‍💻
 
