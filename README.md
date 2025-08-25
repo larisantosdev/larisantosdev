@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🌱 Atualmente estudando e me aperfeiçoando em tecnologias front-end;
+- 🌱 Atualmente estudando e me aperfeiçoando em tecnologias back-end;
 - 📘 Fazendo minha graduação em Ciência da Computação pela UFRRJ;
-- 📜 Me aventurando em UX Design, estudando pelo Google;
-- 💻 Tecnologias favoritas: HTML, CSS e Javascript;
+- 📜 Me aventurando em .NET e MongoDB;
+- 💻 Tecnologias favoritas: C#, .NET, JAVA;
 - 📫 Contate-me pelo e-mail: laridsantoslima@gmail.com;
 - 😄 Meus pronomes: ela/dela;
 - ⚡ Fato curioso: _Gosto de refrigerante sem gás!_
